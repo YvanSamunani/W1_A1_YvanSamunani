@@ -20,7 +20,7 @@ if answer_2=="Fred Swaniker" or answer_2== "Swaniker Fred":
     Score +=1
     print("Your Score is: ", Score, "/10")
 else:
-    print("Wrong")
+    print("Wrong!")
     Score+=0
     print("Your Score is: ", Score, "/10")
 
